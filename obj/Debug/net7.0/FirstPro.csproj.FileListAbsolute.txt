@@ -1,0 +1,15 @@
+/home/adityamuley/adityac#/FirstPro/bin/Debug/net7.0/FirstPro
+/home/adityamuley/adityac#/FirstPro/bin/Debug/net7.0/FirstPro.deps.json
+/home/adityamuley/adityac#/FirstPro/bin/Debug/net7.0/FirstPro.runtimeconfig.json
+/home/adityamuley/adityac#/FirstPro/bin/Debug/net7.0/FirstPro.dll
+/home/adityamuley/adityac#/FirstPro/bin/Debug/net7.0/FirstPro.pdb
+/home/adityamuley/adityac#/FirstPro/obj/Debug/net7.0/FirstPro.csproj.AssemblyReference.cache
+/home/adityamuley/adityac#/FirstPro/obj/Debug/net7.0/FirstPro.GeneratedMSBuildEditorConfig.editorconfig
+/home/adityamuley/adityac#/FirstPro/obj/Debug/net7.0/FirstPro.AssemblyInfoInputs.cache
+/home/adityamuley/adityac#/FirstPro/obj/Debug/net7.0/FirstPro.AssemblyInfo.cs
+/home/adityamuley/adityac#/FirstPro/obj/Debug/net7.0/FirstPro.csproj.CoreCompileInputs.cache
+/home/adityamuley/adityac#/FirstPro/obj/Debug/net7.0/FirstPro.dll
+/home/adityamuley/adityac#/FirstPro/obj/Debug/net7.0/refint/FirstPro.dll
+/home/adityamuley/adityac#/FirstPro/obj/Debug/net7.0/FirstPro.pdb
+/home/adityamuley/adityac#/FirstPro/obj/Debug/net7.0/FirstPro.genruntimeconfig.cache
+/home/adityamuley/adityac#/FirstPro/obj/Debug/net7.0/ref/FirstPro.dll
